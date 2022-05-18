@@ -3,3 +3,5 @@
 This is a basic practical application.
 
 We created a JS button and generated random number.
+
+Updated.
